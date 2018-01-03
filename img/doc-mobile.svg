@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="51px" viewBox="0 0 42 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>8AECEC5D-F740-4E3D-8CD0-710DBABCB323</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M9.33410082,13 C8.52381107,13 7.8019879,12.5587672 7.41655181,11.8760155 L5.49614904,8.47686129 L3,7 L5.84502132,7.00036511 C6.70489517,7.00054766 7.40317481,7.35342441 7.84336744,8.12763562 L9.33410082,10.7502054 L10.8250126,8.12763562 C11.2254309,7.4227949 11.9147925,6.99799191 12.7443452,7.00054766 L14,7.00419874 L11.2518282,11.8760155 C10.8665705,12.5587672 10.1443906,13 9.33410082,13 Z" id="path-1"></path>
+    </defs>
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-SE" transform="translate(-22.000000, -10828.000000)">
+            <g id="16.-Docs" transform="translate(0.000000, 10591.000000)">
+                <g id="icon-copy" transform="translate(23.000000, 238.000000)">
+                    <path d="M11,49 L30.1232936,49 C35.4422716,49 40,45.437905 40,39.2402875 L40,17.845815" id="Shape-Copy" stroke="#03FF21" stroke-width="2" stroke-linecap="round" fill-rule="nonzero"></path>
+                    <path d="M6.77862595,0 C3.06870229,0 0,3.0905307 0,6.93028096 L0,38.069719 C0,41.8626431 3.02290076,45 6.77862595,45 L29.221374,45 C32.9312977,45 36,41.9094693 36,38.069719 L36,13.9542144 C36,13.673257 35.9083969,13.2986472 35.6793893,13.1113424 L22.3969466,0.280957336 C22.1679389,0.0936524454 21.9389313,0 21.6641221,0 L6.77862595,0 Z" id="Shape" stroke="#000000" stroke-width="2" fill-rule="nonzero"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-14-Copy-9" fill="#000000" x="5" y="33" width="19" height="2" rx="1"></rect>
+                    <rect id="Rectangle-14-Copy-10" fill="#000000" x="5" y="28" width="19" height="2" rx="1"></rect>
+                    <rect id="Rectangle-14-Copy-11" fill="#000000" x="5" y="23" width="19" height="2" rx="1"></rect>
+                    <rect id="Rectangle-14-Copy-12" fill="#000000" x="5" y="18" width="19" height="2" rx="1"></rect>
+                    <path d="M22,0 L22,9 L22,9 C22,11.209139 23.790861,13 26,13 L36,13" id="Path-2" stroke="#000000" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

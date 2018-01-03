@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>3C9E7467-77FD-4139-B294-C267FC15CC71</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-43.8%" y="-31.2%" width="187.5%" height="187.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-310.000000, -1801.000000)">
+        <g id="Language" transform="translate(284.000000, 1615.000000)" fill-rule="nonzero">
+            <g id="Ru" transform="translate(30.000000, 184.000000)">
+                <g id="ru" filter="url(#filter-1)" transform="translate(0.000000, 4.000000)">
+                    <polygon id="Shape" fill="#FFFFFF" points="0 0 15.9689669 0 15.9689669 16 0 16"></polygon>
+                    <polygon id="Shape" fill="#0039A6" points="0 5.33334375 15.9689669 5.33334375 15.9689669 16 0 16"></polygon>
+                    <polygon id="Shape" fill="#D52B1E" points="0 10.6666563 15.9689669 10.6666563 15.9689669 16 0 16"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

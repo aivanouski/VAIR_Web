@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="14px" viewBox="0 0 36 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>74744D07-CF97-47FB-AE43-5D6AE1A1CBF1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Header/Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1084.000000, -104.000000)">
+        <g id="Balance" transform="translate(988.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group" transform="translate(114.000000, 111.000000) rotate(-180.000000) translate(-114.000000, -111.000000) translate(96.000000, 104.000000)">
+                <path d="M32.625421,7.88390205 L0.99417949,7.88390205 C0.445109319,7.88390205 0,7.44432072 0,6.90206967 C0,6.35981861 0.445109319,5.92023728 0.99417949,5.92023728 L32.1244881,5.92023728 L29.2226313,2.57481373 C28.8647912,2.16227561 28.9049794,1.5341127 29.312394,1.17177259 C29.7198087,0.809432486 30.3401702,0.850126017 30.6980102,1.26266414 L35.9555536,7.32385539 L30.562959,12.784265 C30.1795296,13.1725162 29.5578677,13.1725162 29.1744383,12.784265 C28.7910089,12.3960138 28.7910089,11.7665341 29.1744383,11.3782829 L32.625421,7.88390205 Z" id="login-arrow"></path>
+            </g>
+        </g>
+    </g>
+</svg>

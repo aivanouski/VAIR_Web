@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="152px" height="191px" viewBox="0 0 153 191" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>C672E588-E4F6-4B81-A7D3-16BF0736BD14</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M34.8123512,47.463035 C32.5398963,47.463035 30.5155457,46.238342 29.4345915,44.3432854 L24.0488286,34.9085385 L17.0483871,30.8093385 L25.0272397,30.8103519 C27.4387529,30.8108586 29.3970758,31.790309 30.6315945,33.9392221 L34.8123512,41.2184689 L38.9936081,33.9392221 C40.1165799,31.9828548 42.0498923,30.8037648 44.3763698,30.8108586 L47.8978495,30.8209926 L40.190611,44.3432854 C39.110157,46.238342 37.084806,47.463035 34.8123512,47.463035 Z" id="path-1"></path>
+    </defs>
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="16-screen---documents" transform="translate(-136.000000, -413.000000)">
+            <g id="doc-1" transform="translate(137.000000, 414.000000)">
+                <g id="doc-icon-1">
+                    <path d="M32.386358,188.045037 L121.368363,188.045037 C136.087897,188.045037 151,174.642152 151,157.080971 L151,61.7584196 C151,60.6155543 150.62817,59.0917338 149.698596,58.3298236" id="Shape-Copy" stroke="#03FF21" stroke-width="2" fill-rule="nonzero"></path>
+                    <path d="M27.5153903,0 C12.4562916,0 0,12.5715185 0,28.1906778 L0,154.85825 C0,170.286932 12.2703768,183.048928 27.5153903,183.048928 L118.613642,183.048928 C133.672741,183.048928 146.129032,170.477409 146.129032,154.85825 L146.129032,56.7623106 L146.129032,56.7623106 C146.129032,55.6194453 145.757203,54.0956249 144.827629,53.3337147 L90.9123369,1.14286531 C89.9827629,0.380955105 89.0531889,0 87.9377001,0 L87.9377001,0 L27.5153903,0 Z" id="Shape" fill="#8E8E8E" stroke="#8E8E8E" stroke-width="2"  fill-rule="nonzero"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#03FF21" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-14" fill="#FFFFFF" x="18.672043" y="80.770428" width="74.688172" height="1.66536965"></rect>
+                    <rect id="Rectangle-14-Copy-6" fill="#FFFFFF" x="18.672043" y="91.5953307" width="74.688172" height="1.66536965"></rect>
+                    <rect id="Rectangle-14-Copy-7" fill="#FFFFFF" x="18.672043" y="102.420233" width="74.688172" height="1.66536965"></rect>
+                    <rect id="Rectangle-14-Copy-8" fill="#FFFFFF" x="18.672043" y="113.245136" width="74.688172" height="1.66536965"></rect>
+                    <rect id="Rectangle-14-Copy-9" fill="#FFFFFF" x="18.672043" y="124.070039" width="74.688172" height="1.66536965"></rect>
+                    <path d="M89.3010753,0.832684825 L89.3010753,36.1245136 L89.3010753,36.1245136 C89.3010753,46.0656391 97.3599498,54.1245136 107.301075,54.1245136 L145.317204,54.1245136" id="Path-2" stroke="#ffffff" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="74px" viewBox="0 0 61 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad" transform="translate(-592.000000, -223.000000)" fill="#03FF21">
+            <g id="1.-Hero" transform="translate(-35.000000, -20.000000)">
+                <g id="Play-Button" transform="translate(527.000000, 157.000000)">
+                    <path d="M100,94.8964477 L100,151.104722 L100,151.104722 C100,155.523 103.581722,159.104722 108,159.104722 C109.522178,159.104722 111.012764,158.670452 112.296755,157.852899 L156.435105,129.748762 L156.435105,129.748762 C160.16202,127.375729 161.259559,122.430744 158.886526,118.703829 C158.258393,117.717328 157.421606,116.880541 156.435105,116.252408 L112.296755,88.1482707 L112.296755,88.1482707 C108.56984,85.7752382 103.624855,86.872777 101.251823,90.5996923 C100.434269,91.8836834 100,93.3742693 100,94.8964477 Z" id="Path-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

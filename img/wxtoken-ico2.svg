@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="108px" viewBox="0 0 116 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>018B9E2E-C5BB-4984-AB3F-C3A77C467EBB</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="6-screen---Why-VX-token" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-567.000000, -410.000000)">
+        <g id="Page-1" transform="translate(568.000000, 411.000000)">
+            <g id="Group-17" transform="translate(0.000000, 0.152000)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835">
+                <polyline id="Stroke-1" stroke="#FFFFFF" points="50.6502 6.5441 56.9302 0.2651 63.2102 6.5441"></polyline>
+                <path d="M56.93,16.9064 L56.93,0.5794" id="Stroke-3" stroke="#FFFFFF"></path>
+                <polyline id="Stroke-5" stroke="#FFFFFF" points="106.3704 46.5402 112.6504 52.8192 106.3704 59.1002"></polyline>
+                <path d="M96.0086,52.8195 L112.3356,52.8195" id="Stroke-7" stroke="#FFFFFF"></path>
+                <polyline id="Stroke-9" stroke="#FFFFFF" points="6.6971 59.0998 0.4171 52.8198 6.6971 46.5398"></polyline>
+                <path d="M17.0589,52.8195 L0.7309,52.8195" id="Stroke-11" stroke="#FFFFFF"></path>
+                <polyline id="Stroke-13" stroke="#03FF21" points="4.1936 12.9221 4.1936 4.0411 13.0746 4.0411"></polyline>
+                <path d="M15.9607,15.8078 L4.4157,4.2628" id="Stroke-15" stroke="#03FF21"></path>
+            </g>
+            <polyline id="Stroke-18" stroke="#FFFFFF" stroke-width="2.835" stroke-linecap="round" stroke-linejoin="round" points="99.993 4.1932 108.874 4.1932 108.874 13.0742"></polyline>
+            <path d="M97.1067,15.9598 L108.6517,4.4148" id="Stroke-19" stroke="#FFFFFF" stroke-width="2.835" stroke-linecap="round" stroke-linejoin="round"></path>
+            <g id="Group-32" transform="translate(4.000000, 87.152000)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.835">
+                <polyline id="Stroke-20" stroke="#03FF21" points="104.8738 4.926 104.8738 13.807 95.9928 13.807"></polyline>
+                <path d="M93.1067,2.0393 L104.6517,13.5843" id="Stroke-22" stroke="#03FF21"></path>
+                <polyline id="Stroke-24" stroke="#FFFFFF" points="9.0745 13.8068 0.1935 13.8068 0.1935 4.9258"></polyline>
+                <path d="M11.9607,2.0393 L0.4157,13.5843" id="Stroke-26" stroke="#FFFFFF"></path>
+                <polyline id="Stroke-28" stroke="#FFFFFF" points="59.2098 11.3029 52.9298 17.5819 46.6498 11.3029"></polyline>
+                <path d="M52.93,0.9416 L52.93,17.2686" id="Stroke-30" stroke="#FFFFFF"></path>
+            </g>
+            <text id="V" font-family="MullerMedium, Muller" font-size="25.7687" font-weight="400" fill="#03FF21">
+                <tspan x="26.7148" y="63.1850478">V</tspan>
+            </text>
+            <text id="A" font-family="MullerMedium, Muller" font-size="25.7687" font-weight="400" fill="#03FF21">
+                <tspan x="42.3048635" y="63.1850478">A</tspan>
+            </text>
+            <text id="I" font-family="MullerMedium, Muller" font-size="25.7687" font-weight="400" fill="#03FF21">
+                <tspan x="61.9663816" y="63.1850478">I</tspan>
+            </text>
+            <text id="R" font-family="MullerMedium, Muller" font-size="25.7687" font-weight="400" fill="#03FF21">
+                <tspan x="68.975468" y="63.1850478">R</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

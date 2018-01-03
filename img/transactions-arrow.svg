@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="16px" viewBox="0 0 13 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>DF8D921A-F167-4C43-9DFB-A55E313BC68F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Table/Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-10.000000, -15.000000)">
+        <g id="table-row-moblie" fill="#03FF21" fill-rule="nonzero">
+            <g id="icon" transform="translate(16.500000, 23.000000) rotate(-270.000000) translate(-16.500000, -23.000000) translate(8.500000, 16.500000)">
+                <path d="M12.625421,6.95935548 L0.99417949,6.95935548 C0.445109319,6.95935548 1.77635684e-15,6.51977415 1.77635684e-15,5.9775231 C1.77635684e-15,5.43527204 0.445109319,4.99569071 0.99417949,4.99569071 L12.1244881,4.99569071 L9.22263129,1.65026716 C8.86479123,1.23772904 8.90497937,0.609566129 9.31239402,0.247226023 C9.71980866,-0.115114083 10.3401702,-0.0744205519 10.6980102,0.338117568 L15.9555536,6.39930882 L10.562959,11.8597184 C10.1795296,12.2479697 9.55786768,12.2479697 9.17443828,11.8597184 C8.79100889,11.4714672 8.79100889,10.8419876 9.17443828,10.4537363 L12.625421,6.95935548 Z" id="login-arrow"></path>
+            </g>
+        </g>
+    </g>
+</svg>

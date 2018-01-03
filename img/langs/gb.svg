@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>6BE0324C-9F89-4A4B-8871-38CC0E064A21</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 16 0 16 16 0 16"></polygon>
+    </defs>
+    <g id="Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-314.000000, -1675.000000)">
+        <g id="Language" transform="translate(284.000000, 1615.000000)">
+            <g id="EN" transform="translate(30.000000, 55.000000)">
+                <g id="gb" transform="translate(0.000000, 5.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Shape"></g>
+                    <g id="Group" mask="url(#mask-2)">
+                        <g transform="translate(-8.192000, 0.000000)">
+                            <g>
+                                <polygon id="Shape" fill="#000066" fill-rule="nonzero" points="0 0 32.7686554 0 32.7686554 16.3843277 0 16.3843277"></polygon>
+                                <path d="M0,0 L0,1.8318295 L29.1051274,16.384426 L32.7686554,16.384426 L32.7686554,14.5525965 L3.66352794,9.8304e-05 L0,0 Z M32.7686554,0 L32.7686554,1.83174219 L3.66352794,16.384426 L0,16.384426 L0,14.5526838 L29.1051274,0 L32.7686554,0 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                <path d="M13.6536064,0 L13.6536064,16.3843277 L19.115049,16.3843277 L19.115049,0 L13.6536064,0 Z M0,5.46144256 L0,10.9228851 L32.7686554,10.9228851 L32.7686554,5.46144256 L0,5.46144256 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                <path d="M0,6.55373107 L0,9.83059661 L32.7686554,9.83059661 L32.7686554,6.55373107 L0,6.55373107 Z M14.7459277,0 L14.7459277,16.3843277 L18.0227277,16.3843277 L18.0227277,0 L14.7459277,0 Z M0,16.3843277 L10.9228851,10.9228851 L13.365248,10.9228851 L2.44236288,16.3843277 L0,16.3843277 Z M0,0 L10.9228851,5.46144256 L8.48052224,5.46144256 L0,1.22126336 L0,0 Z M19.4034074,5.46144256 L30.3262925,0 L32.7686554,0 L21.8457702,5.46144256 L19.4034074,5.46144256 Z M32.7686554,16.3843277 L21.8457702,10.9228851 L24.2881331,10.9228851 L32.7686554,15.1631626 L32.7686554,16.3843277 Z" id="Shape" fill="#CC0000" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
